@@ -1,3 +1,4 @@
 # gitskills
 this is a demo.
-first
+first.
+second.
